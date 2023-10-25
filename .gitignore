@@ -1,0 +1,109 @@
+# Visual Studio / .NET
+*.suo
+*.user
+*.sln
+*.csproj
+*.vbproj
+*.vcxproj
+*.pdb
+obj/
+bin/
+Bin/
+objx64/
+Debug/
+Release/
+TestResults/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Aa][Rr][Cc][Hh][Ii][Tt][Ee][Cc][Tt][Uu][Rr][Ee]/
+*.dbmdl
+*.dbproj
+*.jfm
+*.userprefs
+*.iuser
+*.iobj
+*.ipdb
+*.suo
+*.sln.docstates
+*.[Pp]ublish.xml
+*.pfx
+*.publishsettings
+node_modules/
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.pyproj
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+
+# PC Ignores
+*.sln
+*.pyproj
+*.obj
+*.vs
+*.v16
+obj
+bin
+icon.rc
+*.pyproj.filters
+*.pyproj.user
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+.suo
+.user
+
+
+
