@@ -1,0 +1,5 @@
+Hello my name is Peter Parker. I love Python Programming.
+Love is a powerful emotion. Python is my favorite programming language.
+Hello my name is Peter Parker. Love is all you need.
+I love Python Programming. Enemies can be friends in disguise.
+Hello my name is Peter Parker. Love conquers all. Enemy of the state.
